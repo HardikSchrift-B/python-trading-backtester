@@ -24,3 +24,4 @@ A systematic trading strategy backtesting engine built in Python using historica
 ## Technologies
 
 Python, pandas, numpy, matplotlib, yfinance
+<img width="1200" height="600" alt="Figure_1" src="https://github.com/user-attachments/assets/e8f93e04-8ad7-4411-87d8-15175eec6ab1" />
